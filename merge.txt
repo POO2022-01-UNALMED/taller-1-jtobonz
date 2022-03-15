@@ -1,1 +1,0 @@
-Luego de crear el archivo .txt dentro de la carpeta, sí me permitió hacer el commit. Y la carpeta se subió 
